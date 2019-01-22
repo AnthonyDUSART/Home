@@ -1,0 +1,3 @@
+home_utilisateur_homepage:
+    path:     /
+    defaults: { _controller: HomeUtilisateurBundle:Utilisateur:index }
